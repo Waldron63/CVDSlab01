@@ -14,3 +14,12 @@ editacion del readme en un editor de texto
 ![prueba de hacer el readme en un editor](/images/readmeLocal.png)
 vista final del repositorio
 ![vista final del repositorio](/images/vistaDelRepositorio.png)
+
+## Integrantes:
+Santiago Gualdron Rincon\
+Juan David Martinez Mendez
+
+## Parte 2:
+la resolucion de los problemas dados en la parte 2 y la parte 3 estan hechos en el repositorio de Juan David:
+**Fataltester**
+[sitio web del repositorio de Juan David](https://github.com/Fataltester/CVDS?tab=readme-ov-file)
